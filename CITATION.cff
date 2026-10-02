@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+title: "AI Patents by State and Metro Area, 2025 (startbusinessbystate.com)"
+abstract: "U.S. AI patent grants by the first inventor's state and metro area, per resident, change since 2022, and small-entity share of AI patent applications."
+authors:
+  - name: "StartBusinessByState"
+version: "1.0.0"
+date-released: "2026-10-02"
+license: "CC-BY-4.0"
+repository-code: "https://github.com/jameyriley46-ux/startbusinessbystate-ai-patents-by-state"
+url: "https://startbusinessbystate.com/ai-patents-by-state/"
+keywords:
+  - "artificial intelligence"
+  - "patents"
+  - "USPTO"
+  - "PatentsView"
+  - "innovation"
+  - "states"
+  - "metro areas"
+  - "small entity"
+preferred-citation:
+  type: data
+  title: "AI Patents by State and Metro Area, 2025 (startbusinessbystate.com)"
+  authors:
+    - name: "StartBusinessByState"
+  publisher:
+    name: "startbusinessbystate.com"
+  version: "1.0.0"
+  date-released: "2026-10-02"
+  year: 2026
+  license: "CC-BY-4.0"
+  repository-code: "https://github.com/jameyriley46-ux/startbusinessbystate-ai-patents-by-state"
+  url: "https://github.com/jameyriley46-ux/startbusinessbystate-ai-patents-by-state"

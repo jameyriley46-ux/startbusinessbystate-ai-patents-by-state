@@ -1,0 +1,32 @@
+{
+  "title": "AI Patents by State and Metro Area, 2025 (startbusinessbystate.com)",
+  "description": "<p>U.S. AI patent grants by the first inventor's state and metro area, per resident, change since 2022, and small-entity share of AI patent applications.</p><p>How many AI patents were granted in 2025 to inventors in each state and metro area, how that compares with population and with 2022, and what share of each state's published AI patent applications were filed at small or micro entity fee status (a rough signal of small business and individual inventors).</p><p>As of: Grants through December 31, 2025 (PatentsView release of April 10, 2026). Application counts pulled from the USPTO Open Data Portal on September 30, 2026.</p><p>Main page: <a href=\"https://startbusinessbystate.com/ai-patents-by-state/\">https://startbusinessbystate.com/ai-patents-by-state/</a></p>",
+  "creators": [
+    {
+      "name": "StartBusinessByState",
+      "affiliation": "startbusinessbystate.com"
+    }
+  ],
+  "upload_type": "dataset",
+  "license": "cc-by-4.0",
+  "keywords": [
+    "artificial intelligence",
+    "patents",
+    "USPTO",
+    "PatentsView",
+    "innovation",
+    "states",
+    "metro areas",
+    "small entity"
+  ],
+  "version": "1.0.0",
+  "publication_date": "2026-10-02",
+  "related_identifiers": [
+    {
+      "identifier": "https://startbusinessbystate.com/ai-patents-by-state/",
+      "relation": "isSupplementTo",
+      "resource_type": "publication-other",
+      "scheme": "url"
+    }
+  ]
+}
